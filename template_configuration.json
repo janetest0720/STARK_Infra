@@ -1,7 +1,7 @@
 {
   "Parameters" : {
-    "UserCICDPipelineBucketNameParameter" : "",
-    "UserCodeGenBucketNameParameter" : "",
-    "UserWebsiteBucketNameParameter" : ""
+    "UserCICDPipelineBucketNameParameter" : "pipeline-janetest0720",
+    "UserCodeGenBucketNameParameter" : "codegen-janetest0720",
+    "UserWebsiteBucketNameParameter" : "web-janetest0720"
   }
 }
